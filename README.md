@@ -11,4 +11,7 @@ This one was made between March-June 2024, during heavy school time. Decided it 
 I am not particularly on good terms with Google Developer Console. It is unfair for us indie devs, I literally got stuck on the requirements of the 12 beta testers at the time, and by the time I had them, I had run into many issues. I know releasing apps must have a strict control and standards but it is abusive. God willing, next time I will create an LLC in order to avoid that hassle.
 
 That is my recommendation to anyone that sees this one: <h2>Don't run, fail quick, have fun, and make sure to always keep smiling, no time to worry, just to live and program.</h2>
+
+Also, my deep thanks to all the people that make free assets/resources and stuff on the internet so that everyone can use them(Check their names on the assets folder, but essentially thanks to the opengameart community, kenney and dafont).
+
 <img src="https://github.com/user-attachments/assets/84dd68e1-f4dc-4595-a46b-e46de12e1600" width="480" height="800">
