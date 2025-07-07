@@ -2,7 +2,7 @@
 <h2>The story of a <span style="color:red;">CHICKEN</span> with limited jumps in a blocky environment surrounded by a devilish and round CLOWN Try to SURVIVE!</h2>
 My second "Finished" Game (I have to come back to it at some point), and my first one on Unity (God bless C#).
 
-This one was made between March-June 2024, during heavy school time. It represents a fond milestone for me and also a highlight on 3 big mistakes:
+This one was made between March-June 2024, during heavy school time. Decided it would be cool to share. It represents a fond milestone for me and also a highlight on 3 big mistakes:
 
 1.Wasting time
 2.Overthinking
